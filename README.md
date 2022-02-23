@@ -7,6 +7,13 @@
 
 ## Quickstart
 
+
+
+
+https://user-images.githubusercontent.com/47282788/155419778-0b3f9d48-1d0b-41ea-bbf2-394a05eca713.mp4
+
+
+
 * Want to learn more about the architecture of the application? This [wiki](https://github.com/jdmogollonp/idm-des-ed/wiki/2.-Software-architecture)
  will help. 
 
